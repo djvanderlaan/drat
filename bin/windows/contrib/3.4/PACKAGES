@@ -5,8 +5,7 @@ Imports: utils, methods
 LinkingTo: lvec, BH
 Suggests: testthat
 License: GPL-3
-MD5sum: ddc3447639ecc19d0b90af1a1fba6f1d
-NeedsCompilation: yes
+Archs: i386, x64
 
 Package: reclin
 Version: 0.0.1
@@ -14,5 +13,4 @@ Depends: stats, lvec, lvec.stats, R (>= 3.0.0)
 Imports: dplyr, stringdist, utils, methods
 Suggests: testthat
 License: GPL-3
-MD5sum: f577ba12d5b91a3c5920e2b9d2dffe75
-NeedsCompilation: yes
+Archs: i386, x64
