@@ -1,3 +1,12 @@
+Package: ldat
+Version: 0.0.2
+Depends: R (>= 3.3.2), lvec, stats
+Imports: utils, methods
+LinkingTo: lvec, BH
+Suggests: testthat
+License: GPL-3
+Archs: i386, x64
+
 Package: lvec.stats
 Version: 0.0.1
 Depends: R (>= 3.3.2), lvec, stats
