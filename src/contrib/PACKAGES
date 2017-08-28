@@ -19,10 +19,10 @@ MD5sum: ddc3447639ecc19d0b90af1a1fba6f1d
 NeedsCompilation: yes
 
 Package: reclin
-Version: 0.0.3
+Version: 0.0.4
 Depends: stats, lvec, ldat, R (>= 3.0.0)
 Imports: dplyr, stringdist, utils, methods
 Suggests: testthat
 License: GPL-3
-MD5sum: a916eab968ac703449761d2f5322ef25
+MD5sum: 2e23e49ea8237f598f5f61fe2d0f43cd
 NeedsCompilation: yes
