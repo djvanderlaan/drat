@@ -1,5 +1,5 @@
 Package: ldat
-Version: 0.0.2
+Version: 0.0.3
 Depends: R (>= 3.3.2), lvec, stats
 Imports: utils, methods
 LinkingTo: lvec, BH
